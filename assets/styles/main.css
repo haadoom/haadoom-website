@@ -1,0 +1,127 @@
+#home-icon {
+  font-size: 30px;
+  color: #695ce3;
+}
+
+#sign-up {
+  font-size: 27px;
+  color: #695ce3;
+}
+
+header nav.navbar {
+  padding: 16px 50px;
+}
+
+footer {
+  background-color: #2f2f71;
+  color: #fff;
+  padding: 30px 50px;
+}
+
+main {
+  padding-top: 100px;
+  background-color: #f3f5fb;
+}
+
+.btn-purple {
+  background-color: #695ce3;
+  color: #fff;
+}
+
+.btn {
+  padding: 0px 12px;
+}
+
+.link {
+  color: #fff;
+}
+
+.link:hover {
+  color: #fff;
+  opacity: 0.5;
+  text-decoration: none;
+}
+
+.footer-divider {
+  border-top: 1px solid rgb(255, 255, 255, 0.2);
+}
+
+.social-link {
+  font-size: 25px;
+}
+
+.subscription-input {
+  width: 60%;
+}
+
+#sub-btn {
+  background-color: #695ce3;
+  color: #fff;
+  padding: 0 16px;
+  border: 1px solid #695ce3;
+}
+
+#sub-btn:hover {
+  background-color: #2c1eb1;
+  border: 1px solid #2c1eb1;
+}
+
+.about-section {
+  padding: 60px;
+}
+
+.about-us-title {
+  color: #383879;
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.about-us-paragraph {
+  color: #383879;
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
+.map-section {
+  width: 100%;
+}
+
+.sign-up-section {
+  background-color: #fff;
+  width: 100%;
+  position: relative;
+  padding: 50px 90px;
+}
+
+.instructions {
+  position: absolute;
+  z-index: 1;
+  bottom: 120px;
+  background-color: rgb(217, 241, 255, 0.6);
+  border-radius: 20px;
+  font-size: 25px;
+  padding: 40px 70px;
+  width: 650px;
+  text-align: center;
+  color: #383879;
+}
+
+.signup-btn {
+  background-color: #fb5a77;
+  border: 1px solid #fb5a77;
+  border-radius: 10px;
+  color: #fff;
+  font-weight: 550;
+  padding: 12px 16px;
+  font-size: 16px;
+  margin-top: 70px;
+}
+
+.signup-btn:hover {
+  background-color: #dd0028;
+  border: 1px solid #dd0028;
+}
+
+.brand {
+  font-weight: 550;
+}
